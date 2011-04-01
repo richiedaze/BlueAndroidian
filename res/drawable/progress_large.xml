@@ -36,7 +36,7 @@
                 android:startColor="#4c737373"
                 android:centerColor="#4c737373"
                 android:centerY="0.50"
-                android:endColor="#ff000BDB"
+                android:endColor="#ff2695c5"
         />
         
     </shape>
